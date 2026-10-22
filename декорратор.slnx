@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="декорратор/декорратор.vcxproj" Id="1653a048-baa2-40ff-8c0e-a60fa4344a54" />
+</Solution>
